@@ -1,5 +1,5 @@
 # ghostcat
-Ghostcat LFI PoC
+Ghostcat LFI PoC (NOT AN RCE)
 
 This is an LFI PoC for CVE-2017-12617 (Ghostcat). Original author and exploitdb entry by: ydhcui
 https://www.exploit-db.com/exploits/48143
